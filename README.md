@@ -1,1 +1,1 @@
-# github_lck   java-hello-lck_0.0.1
+# github_lck   java-hello-world-lck_0.0.2
